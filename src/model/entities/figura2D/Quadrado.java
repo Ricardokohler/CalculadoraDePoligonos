@@ -1,6 +1,6 @@
 package model.entities.figura2D;
 
-import entities.enums.Color;
+import model.enums.Color;
 
 public class Quadrado extends Figura2D{
 	private double side;

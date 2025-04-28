@@ -1,6 +1,6 @@
 package model.entities.figura3D;
 
-import entities.enums.Color;
+import model.enums.Color;
 import model.entities.FiguraGeometrica;
 import model.interfaces.DimensaoSuperficial;
 import model.interfaces.DimensaoVolumetrica;

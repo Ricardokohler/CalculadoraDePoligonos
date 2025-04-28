@@ -1,6 +1,6 @@
 package model.entities.figura3D;
 
-import entities.enums.Color;
+import model.enums.Color;
 
 public class Cubo extends Figura3D{
 	private double lado;

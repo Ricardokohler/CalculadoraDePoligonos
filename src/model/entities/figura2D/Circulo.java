@@ -1,6 +1,6 @@
 package model.entities.figura2D;
 
-import entities.enums.Color;
+import model.enums.Color;
 
 public class Circulo extends Figura2D{
 	

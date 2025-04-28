@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.enums.Color;
 import model.entities.FiguraGeometrica;
 import model.entities.figura2D.Circulo;
 import model.entities.figura2D.Figura2D;
@@ -15,6 +14,7 @@ import model.entities.figura3D.Cilindro;
 import model.entities.figura3D.Cubo;
 import model.entities.figura3D.Figura3D;
 import model.entities.figura3D.Piramide;
+import model.enums.Color;
 
 public class Program {
 
